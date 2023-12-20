@@ -1,3 +1,5 @@
+(https://github.com/neerajxp/Beautiful-mui-app/assets/24767822/8148fa9b-5769-4ffa-b665-34385e2a8f4a)
+
 #Project initialization**
 
 > npm create vite@latest
