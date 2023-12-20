@@ -1,8 +1,9 @@
-**#Project initialization**
+#Project initialization**
 
 > npm create vite@latest
+
 > npm run dev
-> npm i bootstrap@latest
+>  npm i bootstrap@latest
   > delete all from App.css
   > main.tsx -> remove import ‘./index.css’
   > npm i bootstrap@latest
