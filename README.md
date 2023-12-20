@@ -1,7 +1,6 @@
 #Project initialization**
 
 > npm create vite@latest
-
 > npm run dev
 >  npm i bootstrap@latest
   > delete all from App.css
